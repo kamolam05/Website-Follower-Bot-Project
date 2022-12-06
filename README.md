@@ -10,7 +10,7 @@ textblob
 
 langdetect
 
-hashlib
+lxml
 
 asyncio
 
